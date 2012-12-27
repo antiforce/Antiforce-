@@ -1,0 +1,11 @@
+#ifndef __REVISION_H__
+#define __REVISION_H__
+ #define _HASH                      "@AntiForce Developers v1@"
+ #define _DATE                      "@AntiForce Developers v1@"
+ #define VER_COMPANYNAME_STR        "AntiForce Developers v1"
+ #define VER_LEGALCOPYRIGHT_STR     "(c)2008-2012 AntiForce "
+ #define VER_FILEVERSION            1,1,1
+ #define VER_FILEVERSION_STR        "@AntiForce Developers V 1"
+ #define VER_PRODUCTVERSION         VER_FILEVERSION
+ #define VER_PRODUCTVERSION_STR     VER_FILEVERSION_STR
+#endif // __REVISION_H__
